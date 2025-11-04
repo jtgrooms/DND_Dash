@@ -1,6 +1,8 @@
 # R Shiny D&D Dashboard 
 Code to build an R Shiny Dashboard using 5th Edition Dungeons and Dragons Character data
 
+## Code
+
 ### app.R
 Code to build the R Shiny Dashboard using rshiny, rshinydashboard, highcharter, plotly, and hmisc
 
